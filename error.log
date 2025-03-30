@@ -1,0 +1,4 @@
+[11-Mar-2024 23:58:58 Europe/Berlin] PHP Warning:  Undefined array key "student" in C:\xampp\htdocs\eval\manage_user.php on line 56
+[12-Mar-2024 00:00:38 Europe/Berlin] PHP Warning:  Undefined array key "faculty" in C:\xampp\htdocs\eval\manage_user.php on line 56
+[12-Mar-2024 00:01:30 Europe/Berlin] PHP Warning:  Undefined array key "faculty" in C:\xampp\htdocs\eval\manage_user.php on line 56
+[12-Mar-2024 00:02:10 Europe/Berlin] PHP Warning:  Array to string conversion in C:\xampp\htdocs\eval\manage_user.php on line 56
